@@ -1,0 +1,26 @@
+#game-container {
+    width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    font-family: monospace;
+    white-space: pre-wrap;
+}
+
+#game-output {
+    height: 400px;
+    overflow-y: scroll;
+    border: 1px solid #eee;
+    padding: 10px;
+    background-color: #f9f9f9;
+}
+
+#user-input {
+    width: 80%;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+#submit-button {
+    padding: 5px 10px;
+}
